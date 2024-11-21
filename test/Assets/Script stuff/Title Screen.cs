@@ -16,7 +16,8 @@ public class TitleScreen : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            SceneManager.LoadScene(sceneName: "SampleScene");
+            SceneController.instance.NextLevel("SampleScene");
+
         }
     }
 }
