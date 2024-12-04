@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 03424404ed624d3499170659f9a9fac3
+guid: 2dd82220393255348967ce4f2bb96729
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7205831472653152033
-    second: nivrom- die-Sheet(29x38)_0
+      213: -7027102457755798490
+    second: chip-enemy(22x8)_0
   - first:
-      213: 5192225479589820175
-    second: nivrom- die-Sheet(29x38)_1
+      213: -5387552238029320172
+    second: chip-enemy(22x8)_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -77,8 +77,8 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 256
     resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
+    textureFormat: 4
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -116,45 +116,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nivrom- die-Sheet(29x38)_0
+      name: chip-enemy(22x8)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 30
-        height: 38
+        width: 22
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 12f22d6db81400460800000000000000
-      internalID: 7205831472653152033
+      spriteID: 3072599df66d6664ab463bd2a8965e3e
+      internalID: 1408216288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nivrom- die-Sheet(29x38)_1
+      name: chip-enemy(22x8)_1
       rect:
         serializedVersion: 2
-        x: 29
+        x: 22
         y: 0
-        width: 29
-        height: 38
+        width: 22
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f07fea8609d7e0840800000000000000
-      internalID: 5192225479589820175
+      spriteID: 1a6b7778a0c816e48aafb63c459cc03c
+      internalID: -1126533405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip-enemy(22x8)_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43322625519452b4bad08ff24e678012
+      internalID: 543648314
       vertices: []
       indices: 
       edges: []
@@ -163,7 +185,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6665210d3e83b6a4a862317d08f3d8ac
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +195,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      nivrom- die-Sheet(29x38)_0: 7205831472653152033
-      nivrom- die-Sheet(29x38)_1: 5192225479589820175
+      chip-enemy(22x8)_0: 1408216288
+      chip-enemy(22x8)_1: -1126533405
+      chip-enemy(22x8)_2: 543648314
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

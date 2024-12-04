@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 03424404ed624d3499170659f9a9fac3
+guid: 68670b58deb53724fa401acbd6358fd6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7205831472653152033
-    second: nivrom- die-Sheet(29x38)_0
+      213: 3661460389318560604
+    second: nivrom - wall sheet(344x 360)_0
   - first:
-      213: 5192225479589820175
-    second: nivrom- die-Sheet(29x38)_1
+      213: -6828390127892340428
+    second: nivrom - wall sheet(344x 360)_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +75,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nivrom- die-Sheet(29x38)_0
+      name: nivrom - wall sheet(344x 360)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 30
-        height: 38
+        width: 344
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12f22d6db81400460800000000000000
-      internalID: 7205831472653152033
+      spriteID: c5b0f7823de10d230800000000000000
+      internalID: 3661460389318560604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nivrom- die-Sheet(29x38)_1
+      name: nivrom - wall sheet(344x 360)_1
       rect:
         serializedVersion: 2
-        x: 29
+        x: 344
         y: 0
-        width: 29
-        height: 38
+        width: 344
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f07fea8609d7e0840800000000000000
-      internalID: 5192225479589820175
+      spriteID: 43161376b5fac31a0800000000000000
+      internalID: -6828390127892340428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivrom - wall sheet(344x 360)_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 344
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0bcdb3c1cf23a4892210ab6c72511d
+      internalID: 156940961
       vertices: []
       indices: 
       edges: []
@@ -163,7 +185,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 50e302f8d6d714f4eb90326944dc0a9f
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +195,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      nivrom- die-Sheet(29x38)_0: 7205831472653152033
-      nivrom- die-Sheet(29x38)_1: 5192225479589820175
+      nivrom - wall sheet(344x 360)_0: 3661460389318560604
+      nivrom - wall sheet(344x 360)_1: -6828390127892340428
+      nivrom - wall sheet(344x 360)_2: 156940961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

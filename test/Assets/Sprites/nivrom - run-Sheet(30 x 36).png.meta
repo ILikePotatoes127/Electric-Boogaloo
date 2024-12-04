@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -87,10 +87,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nivrom - run-Sheet(30 x 36)_0: 5597465435436912191
+      nivrom - run-Sheet(30 x 36)_1: -2143781589616665426
+      nivrom - run-Sheet(30 x 36)_2: 2566210791905395040
+      nivrom - run-Sheet(30 x 36)_3: 988583453761708197
+      nivrom - run-Sheet(30 x 36)_4: 1721959302334880066
+      nivrom - run-Sheet(30 x 36)_5: -4573112108652653560
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

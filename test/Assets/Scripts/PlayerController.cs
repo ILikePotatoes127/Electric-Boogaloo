@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour
     {
         _move = Input.GetAxis("Horizontal");
         _rb.linearVelocity = new Vector2(_move * speed, _rb.linearVelocity.y);
+        
 
         if (_move < 0)
         {

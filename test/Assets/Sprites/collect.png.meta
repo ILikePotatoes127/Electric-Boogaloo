@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 03424404ed624d3499170659f9a9fac3
+guid: 2236f74fbd9392e41a1c4e140f71f608
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7205831472653152033
-    second: nivrom- die-Sheet(29x38)_0
-  - first:
-      213: 5192225479589820175
-    second: nivrom- die-Sheet(29x38)_1
+      213: -6928391686083984918
+    second: collect_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nivrom- die-Sheet(29x38)_0
+      name: collect_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 30
-        height: 38
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12f22d6db81400460800000000000000
-      internalID: 7205831472653152033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nivrom- die-Sheet(29x38)_1
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 0
-        width: 29
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f07fea8609d7e0840800000000000000
-      internalID: 5192225479589820175
+      spriteID: ae1c13e387869df90800000000000000
+      internalID: -6928391686083984918
       vertices: []
       indices: 
       edges: []
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      nivrom- die-Sheet(29x38)_0: 7205831472653152033
-      nivrom- die-Sheet(29x38)_1: 5192225479589820175
+      collect_0: -6928391686083984918
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
